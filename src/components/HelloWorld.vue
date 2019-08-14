@@ -83,37 +83,37 @@ export default {
     operations: [
       {
         text: "人力资源管理",
-        href: "http://www.openclover.com"
+        href: "http://www.cloveropen.com"
       },
       {
         text: "财务管理",
-        href: "http://www.openclover.com"
+        href: "http://www.cloveropen.com"
       },
       {
         text: "药品管理",
-        href: "http://www.openclover.com"
+        href: "http://www.cloveropen.com"
       },
       {
         text: "设备材料管理",
-        href: "http://www.openclover.com"
+        href: "http://www.cloveropen.com"
       },
       {
         text: "物资供应管理",
-        href: "http://www.openclover.com"
+        href: "http://www.cloveropen.com"
       },
       {
         text: "预算管理",
-        href: "http://www.openclover.com"
+        href: "http://www.cloveropen.com"
       }
     ],
     healthCare: [
       {
         text: "门急诊收费系统",
-        href: "http://www.openclover.com"
+        href: "http://120.27.1.240:9801/"
       },
       {
         text: "住院收费系统",
-        href: "http://www.openclover.com"
+        href: "http://www.cloveropen.com"
       },
       {
         text: "护理管理系统",
@@ -121,45 +121,45 @@ export default {
       },
       {
         text: "医务管理系统",
-        href: "http://www.openclover.com"
+        href: "http://www.cloveropen.com"
       },
       {
         text: "院感/传染病管理系统",
-        href: "http://www.openclover.com"
+        href: "http://www.cloveropen.com"
       },
       {
         text: "科研教学管理系统",
-        href: "http://www.openclover.com"
+        href: "http://www.cloveropen.com"
       },
       {
         text: "病案管理系统",
-        href: "http://www.openclover.com"
+        href: "http://www.cloveropen.com"
       },
       {
         text: "医疗保险/新农合接口",
-        href: "http://www.openclover.com"
+        href: "http://www.cloveropen.com"
       },
       {
         text: "职业病管理系统接口",
-        href: "http://www.openclover.com"
+        href: "http://www.cloveropen.com"
       },
       {
         text: "食源性疾病上报系统接口",
-        href: "http://www.openclover.com"
+        href: "http://www.cloveropen.com"
       }
     ],
     clinicSrv: [
       {
         text: "门急诊挂号收费",
-        href: "http://www.openclover.com"
+        href: "http://120.27.1.240:9801/"
       },
       {
         text: "住院病人入出转",
-        href: "http://www.openclover.com"
+        href: "http://www.cloveropen.com"
       },
       {
         text: "分诊管理",
-        href: "http://www.openclover.com"
+        href: "http://www.cloveropen.com"
       },
       {
         text: "门诊医生工作站",
@@ -167,55 +167,55 @@ export default {
       },
       {
         text: "住院医生工作站",
-        href: "http://www.openclover.com"
+        href: "http://www.cloveropen.com"
       },
       {
         text: "住院护士工作站",
-        href: "http://www.openclover.com"
+        href: "http://www.cloveropen.com"
       },
       {
         text: "电子病历书写与管理",
-        href: "http://www.openclover.com"
+        href: "http://www.cloveropen.com"
       },
       {
         text: "合理用药管理",
-        href: "http://www.openclover.com"
+        href: "http://www.cloveropen.com"
       },
       {
         text: "临床检验(LIS)",
-        href: "http://www.openclover.com"
+        href: "http://www.cloveropen.com"
       },
       {
         text: "医学影像(PACS)",
-        href: "http://www.openclover.com"
+        href: "http://www.cloveropen.com"
       },
       {
         text: "超声/内镜/病理管理",
-        href: "http://www.openclover.com"
+        href: "http://www.cloveropen.com"
       },
       {
         text: "手术麻醉管理",
-        href: "http://www.openclover.com"
+        href: "http://www.cloveropen.com"
       },
       {
         text: "临床路径管理",
-        href: "http://www.openclover.com"
+        href: "http://www.cloveropen.com"
       },
       {
         text: "输血管理",
-        href: "http://www.openclover.com"
+        href: "http://www.cloveropen.com"
       },
       {
         text: "重症监护",
-        href: "http://www.openclover.com"
+        href: "http://www.cloveropen.com"
       },
       {
         text: "心电管理",
-        href: "http://www.openclover.com"
+        href: "http://www.cloveropen.com"
       },
       {
         text: "体检管理",
-        href: "http://www.openclover.com"
+        href: "http://www.cloveropen.com"
       }
     ]
   })

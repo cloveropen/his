@@ -109,11 +109,11 @@ export default {
     healthCare: [
       {
         text: "门急诊收费系统",
-        href: "http://120.27.1.240:9801/"
+        href: "https://cloveropen.app-hos.com:9081/"
       },
       {
         text: "住院收费系统",
-        href: "http://www.cloveropen.com"
+        href: "https://cloveropen.app-hos.com:9082"
       },
       {
         text: "护理管理系统",
@@ -151,11 +151,11 @@ export default {
     clinicSrv: [
       {
         text: "门急诊挂号收费",
-        href: "http://120.27.1.240:9801/"
+        href: "https://cloveropen.app-hos.com:9081/"
       },
       {
         text: "住院病人入出转",
-        href: "http://www.cloveropen.com"
+        href: "https://cloveropen.app-hos.com:9082"
       },
       {
         text: "分诊管理",

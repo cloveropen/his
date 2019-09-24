@@ -87,19 +87,19 @@ export default {
       },
       {
         text: "财务管理",
-        href: "http://www.cloveropen.com"
+        href: "https://cloveropen.app-hos.com:9090/"
       },
       {
         text: "药品管理",
-        href: "http://www.cloveropen.com"
+        href: "https://cloveropen.app-hos.com:9091/"
       },
       {
         text: "设备材料管理",
-        href: "http://www.cloveropen.com"
+        href: "https://cloveropen.app-hos.com:9092/"
       },
       {
         text: "物资供应管理",
-        href: "http://www.cloveropen.com"
+        href: "https://cloveropen.app-hos.com:9093/"
       },
       {
         text: "预算管理",
@@ -117,7 +117,7 @@ export default {
       },
       {
         text: "护理管理系统",
-        href: "http://www.openclover.com"
+        href: "https://cloveropen.app-hos.com:9085"
       },
       {
         text: "医务管理系统",
@@ -163,19 +163,19 @@ export default {
       },
       {
         text: "门诊医生工作站",
-        href: "http://www.openclover.com"
+        href: "https://cloveropen.app-hos.com:9083"
       },
       {
         text: "住院医生工作站",
-        href: "http://www.cloveropen.com"
+        href: "https://cloveropen.app-hos.com:9084"
       },
       {
         text: "住院护士工作站",
-        href: "http://www.cloveropen.com"
+        href: "https://cloveropen.app-hos.com:9085"
       },
       {
         text: "电子病历书写与管理",
-        href: "http://www.cloveropen.com"
+        href: "https://cloveropen.app-hos.com:9087"
       },
       {
         text: "合理用药管理",
@@ -195,7 +195,7 @@ export default {
       },
       {
         text: "手术麻醉管理",
-        href: "http://www.cloveropen.com"
+        href: "https://cloveropen.app-hos.com:9089"
       },
       {
         text: "临床路径管理",
@@ -203,11 +203,11 @@ export default {
       },
       {
         text: "输血管理",
-        href: "http://www.cloveropen.com"
+        href: "https://cloveropen.app-hos.com:9088"
       },
       {
         text: "重症监护",
-        href: "http://www.cloveropen.com"
+        href: "https://cloveropen.app-hos.com:9095"
       },
       {
         text: "心电管理",

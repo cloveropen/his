@@ -23,7 +23,7 @@
                   :href="next.href"
                   class="subheading mx-3"
                   target="_blank"
-                >{{ next.text }}</a>
+                >{{ next.text }}<br v-if="(i+1)%5===0"></a>
               </v-list-item-title>
             </v-list-item-content>
           </v-list-item>
@@ -44,7 +44,7 @@
                   :href="link.href"
                   class="subheading mx-3"
                   target="_blank"
-                >{{ link.text }}</a>
+                >{{ link.text }}<br v-if="(i+1)%5===0"></a>
               </v-list-item-title>
             </v-list-item-content>
           </v-list-item>
@@ -66,7 +66,7 @@
                   :href="eco.href"
                   class="subheading mx-3"
                   target="_blank"
-                >{{ eco.text }}</a>
+                >{{ eco.text }}<br v-if="(i+1)%5===0"></a>
               </v-list-item-title>
             </v-list-item-content>
           </v-list-item>
@@ -125,7 +125,7 @@ export default {
       },
       {
         text: "院感/传染病管理系统",
-        href: "http://www.cloveropen.com"
+        href: "https://cloveropen.app-hos.com:8601"
       },
       {
         text: "科研教学管理系统",

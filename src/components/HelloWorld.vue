@@ -117,7 +117,7 @@ export default {
       },
       {
         text: "护理管理系统",
-        href: "https://cloveropen.app-hos.com:9085"
+        href: "https://cloveropen.app-hos.com:8601"
       },
       {
         text: "医务管理系统",

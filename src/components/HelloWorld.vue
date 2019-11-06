@@ -125,7 +125,7 @@ export default {
       },
       {
         text: "院感/传染病管理系统",
-        href: "http://www.cloveropen.com"
+        href: "https://cloveropen.app-hos.com:8601"
       },
       {
         text: "科研教学管理系统",
